@@ -1,0 +1,47 @@
+.login{
+    height: 400px;
+    width: 400px;
+    background-color: #E8A87C;
+    margin-top: 50px;
+    border-radius: 5px;
+    /* display: grid;
+    place-items: center; */
+    text-align: center;
+}
+
+#loginHead{
+    color: rgb(48, 48, 83);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 50px;
+    font-size: 30px;
+}
+#loginForm{
+    width: 400px;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#username{
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-bottom: 4px;
+    border: none;
+}
+#password{
+    width: 200px;
+    border-radius: 5px;
+    padding: 5px 5px;
+    margin-bottom: 4px;
+    border: none;
+}
+
+#loginBtn{
+    margin-bottom: 10px;
+}
+
+#registerRedirect{
+    font-size: 15px;
+}
